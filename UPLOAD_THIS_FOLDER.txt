@@ -1,0 +1,1 @@
+GitHub 저장소 루트에 이 폴더의 파일 6개(index.html, styles.css, config.js, seed-data.js, app.js, 이 안내파일)를 업로드하세요.
